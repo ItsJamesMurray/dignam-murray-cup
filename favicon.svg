@@ -1,0 +1,12 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#1a5f3f" rx="4"/>
+
+  <!-- Golf ball -->
+  <circle cx="16" cy="16" r="8" fill="#ffffff"/>
+  <circle cx="14" cy="14" r="1" fill="#e0e0e0"/>
+  <circle cx="18" cy="14" r="1" fill="#e0e0e0"/>
+  <circle cx="14" cy="18" r="1" fill="#e0e0e0"/>
+  <circle cx="18" cy="18" r="1" fill="#e0e0e0"/>
+  <circle cx="16" cy="16" r="1" fill="#e0e0e0"/>
+</svg>

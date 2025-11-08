@@ -1,0 +1,47 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a5f3f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d8659;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#grad)"/>
+
+  <!-- Golf course elements -->
+  <circle cx="950" cy="500" r="80" fill="#1a4d2e" opacity="0.3"/>
+  <circle cx="200" cy="150" r="60" fill="#1a4d2e" opacity="0.3"/>
+
+  <!-- Golf ball -->
+  <circle cx="600" cy="400" r="40" fill="#ffffff"/>
+  <circle cx="595" cy="395" r="3" fill="#e0e0e0"/>
+  <circle cx="605" cy="395" r="3" fill="#e0e0e0"/>
+  <circle cx="595" cy="405" r="3" fill="#e0e0e0"/>
+  <circle cx="605" cy="405" r="3" fill="#e0e0e0"/>
+  <circle cx="600" cy="400" r="3" fill="#e0e0e0"/>
+
+  <!-- Flag -->
+  <line x1="850" y1="280" x2="850" y2="180" stroke="#ffffff" stroke-width="4"/>
+  <polygon points="850,180 900,195 850,210" fill="#ff4444"/>
+
+  <!-- Golf tee -->
+  <line x1="600" y1="440" x2="600" y2="460" stroke="#8B4513" stroke-width="6"/>
+  <circle cx="600" cy="440" r="8" fill="#8B4513"/>
+
+  <!-- Title -->
+  <text x="600" y="120" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    ⛳ Dignam Murray Cup
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="32" fill="#ffffff" text-anchor="middle" opacity="0.9">
+    The (semi) annual family golf tourny-family reunion
+  </text>
+
+  <!-- Location -->
+  <text x="600" y="570" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle" opacity="0.8">
+    Leawood, Kansas
+  </text>
+</svg>

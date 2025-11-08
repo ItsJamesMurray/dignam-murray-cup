@@ -1,0 +1,8 @@
+{
+  "name": "dignam-murray-cup",
+  "version": "1.0.0",
+  "description": "Dignam Murray Cup website",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'"
+  }
+}
